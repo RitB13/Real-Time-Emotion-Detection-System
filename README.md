@@ -34,6 +34,6 @@ This project is implemented using Python 3.x and requires several Python librari
 - --mode display: This mode will show the emotion detected in real-time via the webcam.
 
 ## Key Components
--CNN Model: The model is built using Keras and TensorFlow. It classifies emotions by learning from the FER-2013 dataset.
+- CNN Model: The model is built using Keras and TensorFlow. It classifies emotions by learning from the FER-2013 dataset.
 - Face Detection: The system uses Haar Cascade for real-time face detection.
 - Real-time Interface: The webcam feed is processed live, providing instant emotion detection.
